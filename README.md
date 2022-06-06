@@ -2,6 +2,7 @@
 
 # Hello, coders 👋🇪🇨 
 
+## Looking for a job... 👀
 #### I'm a Junior Developer focused in Web Development 
 ######  Currently, I have knowledge in:
 
