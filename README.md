@@ -1,12 +1,18 @@
-<img src="https://itxitpro.com/front/img/web-development-services.jpg" alt="Web" height="190">
 
-# Hello, coders 👋🇪🇨 
+<p align="center">
+<h1 align="center">Hello, coders 👋🇪🇨 </h1> 
 
-### Looking for a job... 👀
-#### I'm a Junior Developer focused in Web Development 
-######  Currently, I have knowledge in:
+<p align="center"> Hi my name is Daniel, I'm a Junior Developer focused in Web Development. <br> I'm trying to improve my logical and abstract skills in order to be a better developer.  </p> 
+<h2 align="center"> Currently, I have knowledge in: </h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=css,html,git,js,nodejs,react,tailwind&theme=light)](https://skills.thijs.gg)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.thijs.gg/icons?i=css,html,js,nodejs,react,redux,tailwind,styledcomponents,ts,git,github,linux&perline=4" />
+  </a>
+</p>
+<p align="center">
+Here I'll post my projects, i hope to continue learning more technologies 
+</p>
 
-#### Here I'll post my projects, i hope to continue learning more technologies
-### Ⓒ 2022
+<h4 align="center"> Looking for a job... 👀 </h4>
+<h3 align="center">Ⓒ 2022 </h3>
