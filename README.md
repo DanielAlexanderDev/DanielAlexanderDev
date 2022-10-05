@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-🚀 I'm a Junior Developer focused in Web Development.<br>🧠 I'm trying to improve my logical and abstract skills in order to be a better developer.<br>📚 Currently I'm learning Typescript and Testing.<br>🎯 Here I'll post my projects
+### 🚀 Junior Developer focused in Web Development.<br>🧠 Trying to improve my logical and abstract skills in order to be a better developer.<br>📚 Currently I'm learning Typescript and Testing.<br>🎯 Here I'll post my projects
 
 
 ## 🌐 Socials:
@@ -24,7 +24,7 @@
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
